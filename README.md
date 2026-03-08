@@ -49,7 +49,22 @@ Este repositório documenta minha jornada de estudos e projetos práticos em **C
 - **Meses 1–4:** Linux, Redes e AWS básico.  
 - **Meses 5–8:** AWS avançado + Projeto de Infraestrutura.  
 - **Meses 9–12:** Docker, Kubernetes, Terraform, CI/CD.  
-- **Meses 13–16:** Segurança, Observabilidade e projetos finais.  
+- **Meses 13–16:** Segurança, Observabilidade e projetos finais. 
+
+---
+
+## 🗺️ Mapa da Jornada (Diagrama ASCII)
+
+[ Linux & Redes ] ---> [ AWS Básico ] ---> [ Terraform + Infra AWS ]
+       |                        |                   |
+       v                        v                   v
+[ Docker & Containers ] ---> [ CI/CD Pipelines ] ---> [ Kubernetes Cluster ]
+       |                                                |
+       v                                                v
+[ Monitoramento SNMP ] ---> [ Observabilidade (Prometheus + Grafana) ]
+       |
+       v
+[ Projeto Final Integrado: Cloud + DevOps + IoT ]
 
 ---
 
