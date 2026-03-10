@@ -178,4 +178,5 @@ d.
 2.000.000.000 bits por segundo e 3.000 bits por segundo 
 
 A resposta correta é:
-2.000.000.000 bits por segundo e 3.000 bits por segundo 
+2.000.000.000 bits por segundo e 3.000 bits por segundo
+--------------------------------------------------------------------------------------------------
