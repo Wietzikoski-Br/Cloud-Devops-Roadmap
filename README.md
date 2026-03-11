@@ -13,6 +13,7 @@ Este repositório documenta minha jornada de estudos e projetos práticos em **C
 ---
 
 ## 📂 Estrutura do Repositório
+- `Aulas` → resumos da pós-graduação.
 - `/Linux` → Laboratórios e práticas de administração de sistemas.
 - `/Redes` → Configurações, testes e análises com Wireshark e SNMP.
 - `/AWS` → Projetos de infraestrutura em nuvem com AWS Free Tier.
