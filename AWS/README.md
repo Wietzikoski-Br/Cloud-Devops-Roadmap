@@ -26,7 +26,7 @@ Bloco CIDR IPv4: xxx.xxx.xxx.xxx/xx
 
 Sem IPv6, locação padrão.
 
-AWS/imagens/Captura de tela 2026-03-13 002705-1.png
+![](<AWS/imagens/Captura de tela 2026-03-13 002705-1.png>)
 --
 ![](<Captura de tela 2026-03-13 002756.png>)
 --
